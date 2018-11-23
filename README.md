@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Powered By : HBO - Game of Thrones
 ## Available Scripts
 
 In the project directory, you can run:
